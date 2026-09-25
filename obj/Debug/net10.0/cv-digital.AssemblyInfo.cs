@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cv-digital")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea491f8828c7ed8d6cc84a30268854a0ea6b0e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("cv-digital")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cv-digital")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
